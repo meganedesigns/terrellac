@@ -1,0 +1,17 @@
+/* Styles for temporary homepage */
+body.front {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	background-color:#DCDCDC;
+	width: 100%;
+}
+.front .spacing {
+	margin-top:15px;
+	text-align: center;
+}
+.front .container {
+	width:445px;
+	text-align:left;
+	margin: 0 auto;
+}
